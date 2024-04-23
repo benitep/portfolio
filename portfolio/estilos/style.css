@@ -163,4 +163,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__links__link {
+        width: auto;
+    } 
+
 }
